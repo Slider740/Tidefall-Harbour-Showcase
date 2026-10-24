@@ -1,2 +1,3 @@
-2026/10/21-18:07:36.943 e840 Creating DB C:\Users\Wendy\Documents\GitHub\Tidefall-Harbour-Showcase\Tidefall_Harbour\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
-2026/10/21-18:07:36.983 e840 Reusing MANIFEST C:\Users\Wendy\Documents\GitHub\Tidefall-Harbour-Showcase\Tidefall_Harbour\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/10/24-12:36:47.976 1478 Reusing MANIFEST C:\Users\Wendy\Documents\GitHub\Tidefall-Harbour-Showcase\Tidefall_Harbour\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/10/24-12:36:47.979 1478 Recovering log #3
+2026/10/24-12:36:47.979 1478 Reusing old log C:\Users\Wendy\Documents\GitHub\Tidefall-Harbour-Showcase\Tidefall_Harbour\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 
